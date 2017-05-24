@@ -305,7 +305,7 @@ OPTIONAL_APPS = (
 
 # Drum-specific Mezzanine settings
 ACCOUNTS_PROFILE_MODEL = "links.Profile"
-SITE_TITLE = "Drum"
+SITE_TITLE = "unLabbed"
 RATINGS_RANGE = (-1, 1)
 RATINGS_ACCOUNT_REQUIRED = True
 COMMENTS_ACCOUNT_REQUIRED = True
